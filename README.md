@@ -3,8 +3,7 @@
 ## Description
 3D Customization Studio with AI is a web application that allows users to customize 3D models using artificial intelligence. The project includes a client-side application and a server-side API.
 
-## Deployed Link
-https://friendly-kelpie-51bf12.netlify.app/
+
 
 ## Images
 
